@@ -48,7 +48,7 @@ Numpy arrays
 
 .. tip::
 
-    For example, An array containing:
+    For example, an array containing:
 
     * values of an experiment/simulation at discrete time steps
 
